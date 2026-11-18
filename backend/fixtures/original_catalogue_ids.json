@@ -1,0 +1,252 @@
+[
+  {
+    "id": "linen-sun-shirt",
+    "name": "Linen Sun Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "cotton-everyday-shirt",
+    "name": "Cotton Everyday Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "classic-collar-shirt",
+    "name": "Classic Collar Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "weekend-shirt",
+    "name": "Weekend Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "relaxed-fit-shirt",
+    "name": "Relaxed Fit Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "midnight-overshirt",
+    "name": "Midnight Overshirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "casual-button-shirt",
+    "name": "Casual Button Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "layering-shirt",
+    "name": "Layering Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "city-shirt",
+    "name": "City Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "evening-shirt",
+    "name": "Evening Shirt",
+    "category": "Shirts"
+  },
+  {
+    "id": "essential-tee",
+    "name": "Essential Cotton Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "weekend-tee",
+    "name": "Weekend Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "graphic-tee",
+    "name": "Graphic Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "classic-crew-tee",
+    "name": "Classic Crew Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "everyday-print-tee",
+    "name": "Everyday Print Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "relaxed-tee",
+    "name": "Relaxed Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "streetwear-tee",
+    "name": "Streetwear Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "layering-tee",
+    "name": "Layering Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "casual-tee",
+    "name": "Casual Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "signature-tee",
+    "name": "Signature Tee",
+    "category": "T-shirts"
+  },
+  {
+    "id": "studio-trouser",
+    "name": "Studio Tailored Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "everyday-trouser",
+    "name": "Everyday Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "weekend-trouser",
+    "name": "Weekend Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "relaxed-trouser",
+    "name": "Relaxed Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "city-trouser",
+    "name": "City Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "casual-trouser",
+    "name": "Casual Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "travel-trouser",
+    "name": "Travel Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "straight-fit-trouser",
+    "name": "Straight Fit Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "evening-trouser",
+    "name": "Evening Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "daily-trouser",
+    "name": "Daily Trouser",
+    "category": "Trousers"
+  },
+  {
+    "id": "indigo-jean",
+    "name": "Indigo Straight Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "classic-denim-jean",
+    "name": "Classic Denim Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "weekend-jean",
+    "name": "Weekend Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "everyday-jean",
+    "name": "Everyday Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "relaxed-denim-jean",
+    "name": "Relaxed Denim Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "city-jean",
+    "name": "City Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "casual-denim-jean",
+    "name": "Casual Denim Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "vintage-denim-jean",
+    "name": "Vintage Denim Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "streetwear-jean",
+    "name": "Streetwear Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "straight-leg-jean",
+    "name": "Straight Leg Jean",
+    "category": "Jeans"
+  },
+  {
+    "id": "everyday-hoodie",
+    "name": "Everyday Fleece Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "weekend-hoodie",
+    "name": "Weekend Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "city-hoodie",
+    "name": "City Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "relaxed-hoodie",
+    "name": "Relaxed Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "layering-hoodie",
+    "name": "Layering Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "essential-hoodie",
+    "name": "Essential Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "streetwear-hoodie",
+    "name": "Streetwear Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "casual-hoodie",
+    "name": "Casual Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "daily-hoodie",
+    "name": "Daily Hoodie",
+    "category": "Hoodies"
+  },
+  {
+    "id": "signature-hoodie",
+    "name": "Signature Hoodie",
+    "category": "Hoodies"
+  }
+]

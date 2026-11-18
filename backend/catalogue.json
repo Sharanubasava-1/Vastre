@@ -1,0 +1,2325 @@
+[
+  {
+    "id": "linen-sun-shirt",
+    "name": "Linen Sun Shirt",
+    "category": "Shirts",
+    "price": 1890,
+    "compare_at": 2360,
+    "tag": "New in",
+    "image": "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+    "images": [
+      "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+      "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg",
+      "/images/mens/photo-1607345366928-199ea26cfe3e.jpg"
+    ],
+    "alt": "Linen Sun Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Linen Sun Shirt combines linen-cotton blend with a relaxed fit and a breathable open weave. Wear it untucked for warm-weather lunches and evening walks.",
+    "fabric": "Linen-cotton blend",
+    "fit": "Relaxed",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "cotton-everyday-shirt",
+    "name": "Cotton Everyday Shirt",
+    "category": "Shirts",
+    "price": 1490,
+    "compare_at": 1860,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg",
+    "images": [
+      "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg"
+    ],
+    "alt": "Cotton Everyday Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Cotton Everyday Shirt combines cotton poplin with a regular fit and a neat button front. Pair it with straight trousers for an easy office-to-dinner outfit.",
+    "fabric": "Cotton poplin",
+    "fit": "Regular",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "classic-collar-shirt",
+    "name": "Classic Collar Shirt",
+    "category": "Shirts",
+    "price": 1590,
+    "compare_at": 1990,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1607345366928-199ea26cfe3e.jpg",
+    "images": [
+      "/images/mens/photo-1607345366928-199ea26cfe3e.jpg"
+    ],
+    "alt": "Classic Collar Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Classic Collar Shirt combines cotton oxford with a classic fit and a structured collar. A practical choice for smart casual meetings and weekday layering.",
+    "fabric": "Cotton oxford",
+    "fit": "Classic",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "weekend-shirt",
+    "name": "Weekend Shirt",
+    "category": "Shirts",
+    "price": 1690,
+    "compare_at": 2110,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+    "images": [
+      "/images/mens/photo-1603252110481-7ba873bf42ab.jpg"
+    ],
+    "alt": "Weekend Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Weekend Shirt combines washed cotton twill with an easy fit and a soft drape. Roll the sleeves for relaxed weekend plans and travel days.",
+    "fabric": "Washed cotton twill",
+    "fit": "Easy",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "relaxed-fit-shirt",
+    "name": "Relaxed Fit Shirt",
+    "category": "Shirts",
+    "price": 1790,
+    "compare_at": 2240,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg",
+    "images": [
+      "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg"
+    ],
+    "alt": "Relaxed Fit Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Relaxed Fit Shirt combines cotton dobby with an oversized fit and a textured surface. Leave it open over a tee for an unhurried off-duty look.",
+    "fabric": "Cotton dobby",
+    "fit": "Oversized",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "midnight-overshirt",
+    "name": "Midnight Overshirt",
+    "category": "Shirts",
+    "price": 1990,
+    "compare_at": 2490,
+    "tag": "Restocked",
+    "image": "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+    "images": [
+      "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+      "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg",
+      "/images/mens/photo-1607345366928-199ea26cfe3e.jpg"
+    ],
+    "alt": "Midnight Overshirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Midnight Overshirt combines midweight cotton twill with a boxy fit and a substantial layering feel. Wear this overshirt over a crew neck on cooler city evenings.",
+    "fabric": "Midweight cotton twill",
+    "fit": "Boxy",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "casual-button-shirt",
+    "name": "Casual Button Shirt",
+    "category": "Shirts",
+    "price": 2090,
+    "compare_at": 2610,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+    "images": [
+      "/images/mens/photo-1603252110481-7ba873bf42ab.jpg"
+    ],
+    "alt": "Casual Button Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Casual Button Shirt combines cotton chambray with a regular fit and a lightweight denim-like finish. Take it from daytime errands to a casual supper.",
+    "fabric": "Cotton chambray",
+    "fit": "Regular",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "layering-shirt",
+    "name": "Layering Shirt",
+    "category": "Shirts",
+    "price": 2390,
+    "compare_at": 2990,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg",
+    "images": [
+      "/images/mens/photo-1602810318383-e386cc2a3ccf.jpg"
+    ],
+    "alt": "Layering Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Layering Shirt combines cotton flannel with a relaxed fit and a brushed surface. Layer it over a tee for early starts and cooler afternoons.",
+    "fabric": "Cotton flannel",
+    "fit": "Relaxed",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "city-shirt",
+    "name": "City Shirt",
+    "category": "Shirts",
+    "price": 2590,
+    "compare_at": 3240,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1607345366928-199ea26cfe3e.jpg",
+    "images": [
+      "/images/mens/photo-1607345366928-199ea26cfe3e.jpg"
+    ],
+    "alt": "City Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "City Shirt combines cotton stretch weave with a tailored fit and a clean shoulder line. Style it with chinos for commuting and everyday appointments.",
+    "fabric": "Cotton stretch weave",
+    "fit": "Tailored",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "evening-shirt",
+    "name": "Evening Shirt",
+    "category": "Shirts",
+    "price": 2790,
+    "compare_at": 3490,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1603252110481-7ba873bf42ab.jpg",
+    "images": [
+      "/images/mens/photo-1603252110481-7ba873bf42ab.jpg"
+    ],
+    "alt": "Evening Shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Evening Shirt combines cotton sateen with a slim fit and a smooth understated finish. Tuck it into dark trousers for dinners and evening gatherings.",
+    "fabric": "Cotton sateen",
+    "fit": "Slim",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "essential-tee",
+    "name": "Essential Cotton Tee",
+    "category": "T-shirts",
+    "price": 990,
+    "compare_at": 1240,
+    "tag": "Everyday essential",
+    "image": "/images/mens/photo-1521572163474-6864f9cf17ab.jpg",
+    "images": [
+      "/images/mens/photo-1521572163474-6864f9cf17ab.jpg",
+      "/images/mens/photo-1503341504253-dff4815485f1.jpg",
+      "/images/mens/photo-1562157873-818bc0726f68.jpg",
+      "/images/mens/photo-1564584217132-2271feaeb3c5.jpg",
+      "/images/mens/photo-1576566588028-4147f3842f27.jpg",
+      "/images/mens/photo-1618354691373-d851c5c3a990.jpg",
+      "/images/mens/photo-1627225924765-552d49cf47ad.jpg"
+    ],
+    "alt": "Essential Cotton Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Essential Cotton Tee combines cotton single jersey with a regular fit and a straightforward crew neck. An easy base for everyday denim and overshirts.",
+    "fabric": "Cotton single jersey",
+    "fit": "Regular",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "weekend-tee",
+    "name": "Weekend Tee",
+    "category": "T-shirts",
+    "price": 690,
+    "compare_at": 860,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1503341504253-dff4815485f1.jpg",
+    "images": [
+      "/images/mens/photo-1503341504253-dff4815485f1.jpg"
+    ],
+    "alt": "Weekend Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Weekend Tee combines cotton slub jersey with an easy fit and a lightly textured handle. Reach for it for weekend coffee runs and relaxed afternoons.",
+    "fabric": "Cotton slub jersey",
+    "fit": "Easy",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "graphic-tee",
+    "name": "Graphic Tee",
+    "category": "T-shirts",
+    "price": 1190,
+    "compare_at": 1490,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1562157873-818bc0726f68.jpg",
+    "images": [
+      "/images/mens/photo-1562157873-818bc0726f68.jpg"
+    ],
+    "alt": "Graphic Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Graphic Tee combines cotton jersey with a relaxed fit and a graphic-led casual shape. Style it with washed denim for gigs and off-duty evenings.",
+    "fabric": "Cotton jersey",
+    "fit": "Relaxed",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "classic-crew-tee",
+    "name": "Classic Crew Tee",
+    "category": "T-shirts",
+    "price": 790,
+    "compare_at": 990,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1564584217132-2271feaeb3c5.jpg",
+    "images": [
+      "/images/mens/photo-1564584217132-2271feaeb3c5.jpg"
+    ],
+    "alt": "Classic Crew Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Classic Crew Tee combines combed cotton jersey with a classic fit and a close ribbed neckline. A dependable standalone tee for everyday trousers.",
+    "fabric": "Combed cotton jersey",
+    "fit": "Classic",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "everyday-print-tee",
+    "name": "Everyday Print Tee",
+    "category": "T-shirts",
+    "price": 1090,
+    "compare_at": 1360,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1576566588028-4147f3842f27.jpg",
+    "images": [
+      "/images/mens/photo-1576566588028-4147f3842f27.jpg"
+    ],
+    "alt": "Everyday Print Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Print Tee combines cotton interlock with a regular fit and a smooth substantial feel. Pair it with shorts or denim for casual day plans.",
+    "fabric": "Cotton interlock",
+    "fit": "Regular",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "relaxed-tee",
+    "name": "Relaxed Tee",
+    "category": "T-shirts",
+    "price": 890,
+    "compare_at": 1110,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1618354691373-d851c5c3a990.jpg",
+    "images": [
+      "/images/mens/photo-1618354691373-d851c5c3a990.jpg"
+    ],
+    "alt": "Relaxed Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Relaxed Tee combines heavyweight cotton jersey with an oversized fit and a roomy shoulder line. Wear it loose with straight jeans on days off.",
+    "fabric": "Heavyweight cotton jersey",
+    "fit": "Oversized",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "streetwear-tee",
+    "name": "Streetwear Tee",
+    "category": "T-shirts",
+    "price": 1290,
+    "compare_at": 1610,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1627225924765-552d49cf47ad.jpg",
+    "images": [
+      "/images/mens/photo-1627225924765-552d49cf47ad.jpg"
+    ],
+    "alt": "Streetwear Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Streetwear Tee combines cotton loopback jersey with a boxy fit and a structured drape. Build a streetwear outfit with relaxed trousers and trainers.",
+    "fabric": "Cotton loopback jersey",
+    "fit": "Boxy",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "layering-tee",
+    "name": "Layering Tee",
+    "category": "T-shirts",
+    "price": 590,
+    "compare_at": 740,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1521572163474-6864f9cf17ab.jpg",
+    "images": [
+      "/images/mens/photo-1521572163474-6864f9cf17ab.jpg"
+    ],
+    "alt": "Layering Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Layering Tee combines light cotton jersey with a close fit and a low-bulk silhouette. Use it beneath open shirts and lightweight jackets.",
+    "fabric": "Light cotton jersey",
+    "fit": "Close",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "casual-tee",
+    "name": "Casual Tee",
+    "category": "T-shirts",
+    "price": 750,
+    "compare_at": 940,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1503341504253-dff4815485f1.jpg",
+    "images": [
+      "/images/mens/photo-1503341504253-dff4815485f1.jpg"
+    ],
+    "alt": "Casual Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Casual Tee combines cotton pique jersey with an easy fit and a subtle knit texture. A simple option for neighbourhood walks and everyday errands.",
+    "fabric": "Cotton pique jersey",
+    "fit": "Easy",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "signature-tee",
+    "name": "Signature Tee",
+    "category": "T-shirts",
+    "price": 1390,
+    "compare_at": 1740,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1562157873-818bc0726f68.jpg",
+    "images": [
+      "/images/mens/photo-1562157873-818bc0726f68.jpg"
+    ],
+    "alt": "Signature Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Signature Tee combines cotton-modal jersey with a regular fit and a soft fluid drape. Wear it with tailored trousers for a quiet smart casual outfit.",
+    "fabric": "Cotton-modal jersey",
+    "fit": "Regular",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "studio-trouser",
+    "name": "Studio Tailored Trouser",
+    "category": "Trousers",
+    "price": 2290,
+    "compare_at": 2860,
+    "tag": "New in",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Studio Tailored Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Studio Tailored Trouser combines cotton-viscose stretch weave with a straight fit and a tidy tailored finish. Dress them with a shirt for work and evening plans.",
+    "fabric": "Cotton-viscose stretch weave",
+    "fit": "Straight",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "everyday-trouser",
+    "name": "Everyday Trouser",
+    "category": "Trousers",
+    "price": 1850,
+    "compare_at": 2310,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Everyday Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Trouser combines cotton twill with a regular fit and a comfortable everyday waistband. Pair them with a tee for commuting and casual appointments.",
+    "fabric": "Cotton twill",
+    "fit": "Regular",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "weekend-trouser",
+    "name": "Weekend Trouser",
+    "category": "Trousers",
+    "price": 1950,
+    "compare_at": 2440,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Weekend Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Weekend Trouser combines washed cotton canvas with an easy fit and a relaxed leg opening. Choose them for weekend markets and informal lunches.",
+    "fabric": "Washed cotton canvas",
+    "fit": "Easy",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "relaxed-trouser",
+    "name": "Relaxed Trouser",
+    "category": "Trousers",
+    "price": 2050,
+    "compare_at": 2560,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Relaxed Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Relaxed Trouser combines cotton-linen blend with a relaxed fit and an airy drape. Wear them on warm days with an open-collar shirt.",
+    "fabric": "Cotton-linen blend",
+    "fit": "Relaxed",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "city-trouser",
+    "name": "City Trouser",
+    "category": "Trousers",
+    "price": 2450,
+    "compare_at": 3060,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "City Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "City Trouser combines poly-viscose suiting weave with a tapered fit and a clean front line. An understated option for city offices and after-work plans.",
+    "fabric": "Poly-viscose suiting weave",
+    "fit": "Tapered",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "casual-trouser",
+    "name": "Casual Trouser",
+    "category": "Trousers",
+    "price": 1750,
+    "compare_at": 2190,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Casual Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Casual Trouser combines cotton stretch twill with a regular fit and room through the thigh. Style them with knitwear for an easy everyday outfit.",
+    "fabric": "Cotton stretch twill",
+    "fit": "Regular",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "travel-trouser",
+    "name": "Travel Trouser",
+    "category": "Trousers",
+    "price": 2650,
+    "compare_at": 3310,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Travel Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Travel Trouser combines nylon stretch weave with a tapered fit and a lightweight flexible feel. Pack them for train journeys and walking-heavy days.",
+    "fabric": "Nylon stretch weave",
+    "fit": "Tapered",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "straight-fit-trouser",
+    "name": "Straight Fit Trouser",
+    "category": "Trousers",
+    "price": 2150,
+    "compare_at": 2690,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Straight Fit Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Straight Fit Trouser combines cotton gabardine with a straight fit and a structured full-length leg. Pair them with a tucked shirt for a balanced silhouette.",
+    "fabric": "Cotton gabardine",
+    "fit": "Straight",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "evening-trouser",
+    "name": "Evening Trouser",
+    "category": "Trousers",
+    "price": 2850,
+    "compare_at": 3560,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Evening Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Evening Trouser combines viscose-blend suiting weave with a tailored fit and a smooth drape. A considered choice for dinners and smart evening occasions.",
+    "fabric": "Viscose-blend suiting weave",
+    "fit": "Tailored",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "daily-trouser",
+    "name": "Daily Trouser",
+    "category": "Trousers",
+    "price": 1650,
+    "compare_at": 2060,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1624378439575-d8705ad7ae80.jpg",
+    "images": [
+      "/images/mens/photo-1624378439575-d8705ad7ae80.jpg"
+    ],
+    "alt": "Daily Trouser",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Daily Trouser combines cotton drill with an easy fit and a practical midweight handle. Rotate them with everyday tees and overshirts.",
+    "fabric": "Cotton drill",
+    "fit": "Easy",
+    "weight_kg": 0.45,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "indigo-jean",
+    "name": "Indigo Straight Jean",
+    "category": "Jeans",
+    "price": 2490,
+    "compare_at": 3110,
+    "tag": "Bestseller",
+    "image": "/images/mens/photo-1542272604-787c3835535d.jpg",
+    "images": [
+      "/images/mens/photo-1542272604-787c3835535d.jpg",
+      "/images/mens/photo-1565084888279-aca607ecce0c.jpg",
+      "/images/mens/photo-1582552938357-32b906df40cb.jpg",
+      "/images/mens/photo-1604176354204-9268737828e4.jpg"
+    ],
+    "alt": "Indigo Straight Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Indigo Straight Jean combines cotton denim with a straight fit and a deep indigo wash. Wear them with a white tee or button-down for everyday plans.",
+    "fabric": "Cotton denim",
+    "fit": "Straight",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "classic-denim-jean",
+    "name": "Classic Denim Jean",
+    "category": "Jeans",
+    "price": 2690,
+    "compare_at": 3360,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1565084888279-aca607ecce0c.jpg",
+    "images": [
+      "/images/mens/photo-1565084888279-aca607ecce0c.jpg"
+    ],
+    "alt": "Classic Denim Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Classic Denim Jean combines cotton stretch denim with a regular fit and a traditional five-pocket shape. A versatile base for casual workdays and weekends.",
+    "fabric": "Cotton stretch denim",
+    "fit": "Regular",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "weekend-jean",
+    "name": "Weekend Jean",
+    "category": "Jeans",
+    "price": 2195,
+    "compare_at": 2740,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1582552938357-32b906df40cb.jpg",
+    "images": [
+      "/images/mens/photo-1582552938357-32b906df40cb.jpg"
+    ],
+    "alt": "Weekend Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Weekend Jean combines washed cotton denim with an easy fit and a softened mid-blue finish. Pair them with casual shirts for laid-back days out.",
+    "fabric": "Washed cotton denim",
+    "fit": "Easy",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "everyday-jean",
+    "name": "Everyday Jean",
+    "category": "Jeans",
+    "price": 2340,
+    "compare_at": 2920,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1604176354204-9268737828e4.jpg",
+    "images": [
+      "/images/mens/photo-1604176354204-9268737828e4.jpg"
+    ],
+    "alt": "Everyday Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Jean combines cotton stretch denim with a tapered fit and a tidy ankle opening. Wear them with trainers for errands and commuting.",
+    "fabric": "Cotton stretch denim",
+    "fit": "Tapered",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "relaxed-denim-jean",
+    "name": "Relaxed Denim Jean",
+    "category": "Jeans",
+    "price": 2890,
+    "compare_at": 3610,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1542272604-787c3835535d.jpg",
+    "images": [
+      "/images/mens/photo-1542272604-787c3835535d.jpg"
+    ],
+    "alt": "Relaxed Denim Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Relaxed Denim Jean combines cotton denim with a relaxed fit and extra room through the leg. Balance them with a close-fitting tee on days off.",
+    "fabric": "Cotton denim",
+    "fit": "Relaxed",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "city-jean",
+    "name": "City Jean",
+    "category": "Jeans",
+    "price": 2990,
+    "compare_at": 3740,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1565084888279-aca607ecce0c.jpg",
+    "images": [
+      "/images/mens/photo-1565084888279-aca607ecce0c.jpg"
+    ],
+    "alt": "City Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "City Jean combines dark cotton denim with a slim straight fit and a clean dark wash. Style them with an overshirt for city evenings.",
+    "fabric": "Dark cotton denim",
+    "fit": "Slim straight",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "casual-denim-jean",
+    "name": "Casual Denim Jean",
+    "category": "Jeans",
+    "price": 2540,
+    "compare_at": 3180,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1582552938357-32b906df40cb.jpg",
+    "images": [
+      "/images/mens/photo-1582552938357-32b906df40cb.jpg"
+    ],
+    "alt": "Casual Denim Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Casual Denim Jean combines cotton-blend denim with a regular fit and a comfortable midweight feel. Team them with a crew neck for informal everyday wear.",
+    "fabric": "Cotton-blend denim",
+    "fit": "Regular",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "vintage-denim-jean",
+    "name": "Vintage Denim Jean",
+    "category": "Jeans",
+    "price": 3190,
+    "compare_at": 3990,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1604176354204-9268737828e4.jpg",
+    "images": [
+      "/images/mens/photo-1604176354204-9268737828e4.jpg"
+    ],
+    "alt": "Vintage Denim Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Vintage Denim Jean combines washed cotton denim with a loose straight fit and a vintage-inspired faded finish. Pair them with textured tees for a relaxed weekend look.",
+    "fabric": "Washed cotton denim",
+    "fit": "Loose straight",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "streetwear-jean",
+    "name": "Streetwear Jean",
+    "category": "Jeans",
+    "price": 3090,
+    "compare_at": 3860,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1542272604-787c3835535d.jpg",
+    "images": [
+      "/images/mens/photo-1542272604-787c3835535d.jpg"
+    ],
+    "alt": "Streetwear Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Streetwear Jean combines rigid cotton denim with a wide fit and a structured streetwear silhouette. Wear them with a boxy hoodie and simple trainers.",
+    "fabric": "Rigid cotton denim",
+    "fit": "Wide",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "straight-leg-jean",
+    "name": "Straight Leg Jean",
+    "category": "Jeans",
+    "price": 2795,
+    "compare_at": 3500,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1565084888279-aca607ecce0c.jpg",
+    "images": [
+      "/images/mens/photo-1565084888279-aca607ecce0c.jpg"
+    ],
+    "alt": "Straight Leg Jean",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Straight Leg Jean combines cotton stretch denim with a straight leg fit and an even line from hip to hem. A useful everyday option with shirts and lightweight knits.",
+    "fabric": "Cotton stretch denim",
+    "fit": "Straight leg",
+    "weight_kg": 0.65,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "everyday-hoodie",
+    "name": "Everyday Fleece Hoodie",
+    "category": "Hoodies",
+    "price": 2190,
+    "compare_at": 2750,
+    "tag": "New in",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Everyday Fleece Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Fleece Hoodie combines cotton-blend fleece with a relaxed fit and a soft brushed interior. Layer it over a tee for cooler daily commutes.",
+    "fabric": "Cotton-blend fleece",
+    "fit": "Relaxed",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "weekend-hoodie",
+    "name": "Weekend Hoodie",
+    "category": "Hoodies",
+    "price": 2240,
+    "compare_at": 2800,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Weekend Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Weekend Hoodie combines cotton loopback sweat with an easy fit and a lighter unbrushed interior. Wear it for weekend errands and easy afternoon plans.",
+    "fabric": "Cotton loopback sweat",
+    "fit": "Easy",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "city-hoodie",
+    "name": "City Hoodie",
+    "category": "Hoodies",
+    "price": 2395,
+    "compare_at": 3000,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "City Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "City Hoodie combines cotton-poly sweat knit with a regular fit and a neat everyday silhouette. Pair it with dark denim for moving around the city.",
+    "fabric": "Cotton-poly sweat knit",
+    "fit": "Regular",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "relaxed-hoodie",
+    "name": "Relaxed Hoodie",
+    "category": "Hoodies",
+    "price": 2440,
+    "compare_at": 3050,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Relaxed Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Relaxed Hoodie combines heavy cotton-blend fleece with an oversized fit and a roomy dropped shoulder. Choose it for relaxed evenings and comfortable days off.",
+    "fabric": "Heavy cotton-blend fleece",
+    "fit": "Oversized",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "layering-hoodie",
+    "name": "Layering Hoodie",
+    "category": "Hoodies",
+    "price": 2640,
+    "compare_at": 3300,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Layering Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Layering Hoodie combines cotton loopback jersey with a boxy fit and a clean layering shape. Wear it beneath a roomy jacket when the weather cools.",
+    "fabric": "Cotton loopback jersey",
+    "fit": "Boxy",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "essential-hoodie",
+    "name": "Essential Hoodie",
+    "category": "Hoodies",
+    "price": 2040,
+    "compare_at": 2550,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Essential Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Essential Hoodie combines cotton-blend sweat with a regular fit and a straightforward pullover shape. Keep it in rotation with everyday tees and jeans.",
+    "fabric": "Cotton-blend sweat",
+    "fit": "Regular",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "streetwear-hoodie",
+    "name": "Streetwear Hoodie",
+    "category": "Hoodies",
+    "price": 2840,
+    "compare_at": 3550,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Streetwear Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Streetwear Hoodie combines heavyweight cotton sweat with a wide fit and a structured roomy body. Build an off-duty outfit with loose denim and trainers.",
+    "fabric": "Heavyweight cotton sweat",
+    "fit": "Wide",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "casual-hoodie",
+    "name": "Casual Hoodie",
+    "category": "Hoodies",
+    "price": 2345,
+    "compare_at": 2930,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Casual Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Casual Hoodie combines cotton-viscose sweat knit with an easy fit and a soft draping handle. Reach for it for informal lunches and quiet weekends.",
+    "fabric": "Cotton-viscose sweat knit",
+    "fit": "Easy",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "daily-hoodie",
+    "name": "Daily Hoodie",
+    "category": "Hoodies",
+    "price": 1940,
+    "compare_at": 2420,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Daily Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Daily Hoodie combines cotton-blend jersey fleece with a regular fit and a practical midweight construction. A simple layer for early starts and neighbourhood walks.",
+    "fabric": "Cotton-blend jersey fleece",
+    "fit": "Regular",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "signature-hoodie",
+    "name": "Signature Hoodie",
+    "category": "Hoodies",
+    "price": 2940,
+    "compare_at": 3680,
+    "tag": "The men’s edit",
+    "image": "/images/mens/photo-1556821840-3a63f95609a7.jpg",
+    "images": [
+      "/images/mens/photo-1556821840-3a63f95609a7.jpg"
+    ],
+    "alt": "Signature Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Signature Hoodie combines cotton-modal sweat with a relaxed fit and a smooth premium-feel surface. Pair it with tailored joggers for considered casual dressing.",
+    "fabric": "Cotton-modal sweat",
+    "fit": "Relaxed",
+    "weight_kg": 0.6,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; wash similar colours together and air dry."
+  },
+  {
+    "id": "performance-tee",
+    "name": "Performance Training Tee",
+    "category": "Sportswear",
+    "price": 1240,
+    "tag": "New in",
+    "image": "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+    "images": [
+      "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+      "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+      "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg"
+    ],
+    "alt": "Man jogging in a black tee and shorts",
+    "image_alts": [
+      "Man jogging in a black tee and shorts",
+      "Man training in a white tee and dark trousers",
+      "Man in an athletic jacket at the gym"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Performance Training Tee combines polyester stretch jersey with an athletic fit and a light crew-neck construction. Wear it for gym circuits and everyday training.",
+    "fabric": "Polyester stretch jersey",
+    "fit": "Athletic",
+    "weight_kg": 0.18,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 1550
+  },
+  {
+    "id": "training-shorts",
+    "name": "Stride Training Shorts",
+    "category": "Sportswear",
+    "price": 1140,
+    "tag": "Everyday essential",
+    "image": "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+    "images": [
+      "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+      "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg"
+    ],
+    "alt": "Man jogging in a black tee and shorts",
+    "image_alts": [
+      "Man jogging in a black tee and shorts",
+      "Man training in a white tee and dark trousers",
+      "Man in a tracksuit by an urban shutter"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Stride Training Shorts combines polyester stretch weave with a regular fit and room through the thigh. Pair them with a training tee for gym sessions and short runs.",
+    "fabric": "Polyester stretch weave",
+    "fit": "Regular",
+    "weight_kg": 0.2,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "bottoms",
+    "compare_at": 1420
+  },
+  {
+    "id": "training-joggers",
+    "name": "Movement Training Joggers",
+    "category": "Sportswear",
+    "price": 2140,
+    "tag": "Restocked",
+    "image": "/images/mens/photo-1762575910569-46971cd69df3.jpg",
+    "images": [
+      "/images/mens/photo-1762575910569-46971cd69df3.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg",
+      "/images/mens/photo-1769971435874-a8a91d2516fb.jpg"
+    ],
+    "alt": "Man in a black hoodie and joggers",
+    "image_alts": [
+      "Man in a black hoodie and joggers",
+      "Man in a tracksuit by an urban shutter",
+      "Man in a green tracksuit outdoors"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Movement Training Joggers combines cotton-poly loopback with a tapered fit and a comfortable cuffed shape. Wear them for warm-ups and relaxed journeys home.",
+    "fabric": "Cotton-poly loopback",
+    "fit": "Tapered",
+    "weight_kg": 0.35,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "bottoms",
+    "compare_at": 2680
+  },
+  {
+    "id": "track-jacket",
+    "name": "Warm-up Track Jacket",
+    "category": "Sportswear",
+    "price": 2740,
+    "tag": "New in",
+    "image": "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg",
+    "images": [
+      "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg",
+      "/images/mens/photo-1758521959979-e3aa38696309.jpg"
+    ],
+    "alt": "Man in an athletic jacket at the gym",
+    "image_alts": [
+      "Man in an athletic jacket at the gym",
+      "Man in a tracksuit by an urban shutter",
+      "Man running in a jacket outdoors"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Warm-up Track Jacket combines polyester tricot with a regular fit and a lightweight zip-through silhouette. Layer it over a tee before and after training.",
+    "fabric": "Polyester tricot",
+    "fit": "Regular",
+    "weight_kg": 0.4,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 3420
+  },
+  {
+    "id": "running-tights",
+    "name": "Pace Running Tights",
+    "category": "Sportswear",
+    "price": 1540,
+    "tag": "Everyday essential",
+    "image": "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+    "images": [
+      "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+      "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg"
+    ],
+    "alt": "Man jogging in a black tee and shorts",
+    "image_alts": [
+      "Man jogging in a black tee and shorts",
+      "Man training in a white tee and dark trousers",
+      "Man in a tracksuit by an urban shutter"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Pace Running Tights combines polyester-elastane jersey with a close fit and a flexible close-to-body shape. Wear them alone or beneath shorts for running practice.",
+    "fabric": "Polyester-elastane jersey",
+    "fit": "Close",
+    "weight_kg": 0.22,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      },
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "bottoms",
+    "compare_at": 1920
+  },
+  {
+    "id": "gym-vest",
+    "name": "Everyday Gym Vest",
+    "category": "Sportswear",
+    "price": 840,
+    "tag": "Restocked",
+    "image": "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+    "images": [
+      "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+      "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+      "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg"
+    ],
+    "alt": "Man training in a white tee and dark trousers",
+    "image_alts": [
+      "Man training in a white tee and dark trousers",
+      "Man jogging in a black tee and shorts",
+      "Man in an athletic jacket at the gym"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Gym Vest combines cotton stretch jersey with an athletic fit and an open sleeveless shape. An easy base layer for lifting sessions and warm-weather exercise.",
+    "fabric": "Cotton stretch jersey",
+    "fit": "Athletic",
+    "weight_kg": 0.14,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Off white",
+        "hex": "#eee9df"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 1050
+  },
+  {
+    "id": "sports-hoodie",
+    "name": "Recovery Sports Hoodie",
+    "category": "Sportswear",
+    "price": 3040,
+    "tag": "New in",
+    "image": "/images/mens/photo-1762575910569-46971cd69df3.jpg",
+    "images": [
+      "/images/mens/photo-1762575910569-46971cd69df3.jpg",
+      "/images/mens/photo-1758521959979-e3aa38696309.jpg",
+      "/images/mens/photo-1769971435874-a8a91d2516fb.jpg"
+    ],
+    "alt": "Man in a black hoodie and joggers",
+    "image_alts": [
+      "Man in a black hoodie and joggers",
+      "Man running in a jacket outdoors",
+      "Man in a green tracksuit outdoors"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Recovery Sports Hoodie combines cotton-poly fleece with a relaxed fit and a soft warm-up layer. Wear it between training sessions and on cooler recovery walks.",
+    "fabric": "Cotton-poly fleece",
+    "fit": "Relaxed",
+    "weight_kg": 0.55,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1f2523"
+      },
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 3800
+  },
+  {
+    "id": "compression-tee",
+    "name": "Form Compression Tee",
+    "category": "Sportswear",
+    "price": 1440,
+    "tag": "Everyday essential",
+    "image": "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+    "images": [
+      "/images/mens/photo-1597452485668-2b8ae3b8daa7.jpg",
+      "/images/mens/photo-1554139844-af2fc8ad3a3a.jpg",
+      "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg"
+    ],
+    "alt": "Man training in a white tee and dark trousers",
+    "image_alts": [
+      "Man training in a white tee and dark trousers",
+      "Man jogging in a black tee and shorts",
+      "Man in an athletic jacket at the gym"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Form Compression Tee combines polyester-elastane interlock with a close fit and a close flexible silhouette. Use it as a close-fitting base for lifting and mobility sessions.",
+    "fabric": "Polyester-elastane interlock",
+    "fit": "Close",
+    "weight_kg": 0.17,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26354a"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 1800
+  },
+  {
+    "id": "tracksuit-set",
+    "name": "Everyday Tracksuit Set",
+    "category": "Sportswear",
+    "price": 4490,
+    "tag": "Restocked",
+    "image": "/images/mens/photo-1769971435874-a8a91d2516fb.jpg",
+    "images": [
+      "/images/mens/photo-1769971435874-a8a91d2516fb.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg",
+      "/images/mens/photo-1762575910569-46971cd69df3.jpg"
+    ],
+    "alt": "Man in a green tracksuit outdoors",
+    "image_alts": [
+      "Man in a green tracksuit outdoors",
+      "Man in a tracksuit by an urban shutter",
+      "Man in a black hoodie and joggers"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Everyday Tracksuit Set combines polyester tricot with a regular fit and a coordinated jacket and trouser silhouette. Wear the set together for warm-ups or separately for casual plans.",
+    "fabric": "Polyester tricot",
+    "fit": "Regular",
+    "weight_kg": 0.8,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c5b9a5"
+      },
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "set",
+    "compare_at": 5610
+  },
+  {
+    "id": "windcheater",
+    "name": "Trail Windcheater",
+    "category": "Sportswear",
+    "price": 3240,
+    "tag": "New in",
+    "image": "/images/mens/photo-1758521959979-e3aa38696309.jpg",
+    "images": [
+      "/images/mens/photo-1758521959979-e3aa38696309.jpg",
+      "/images/mens/photo-1762744827101-404f5cc7d8ab.jpg",
+      "/images/mens/photo-1548123378-bde4eca81d2d.jpg"
+    ],
+    "alt": "Man running in a jacket outdoors",
+    "image_alts": [
+      "Man running in a jacket outdoors",
+      "Man in an athletic jacket at the gym",
+      "Man in a tracksuit by an urban shutter"
+    ],
+    "image_note": "Styling reference photographs; garment details and colours may differ.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Trail Windcheater combines lightweight nylon weave with an easy fit and a packable outer-layer feel. Take it on breezy walks and outdoor warm-ups.",
+    "fabric": "Lightweight nylon weave",
+    "fit": "Easy",
+    "weight_kg": 0.25,
+    "rating": null,
+    "review_count": 0,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#56634b"
+      },
+      {
+        "name": "Clay",
+        "hex": "#a06750"
+      }
+    ],
+    "care": "Follow the garment care label; use a gentle wash and air dry away from direct heat.",
+    "size_guide": "tops",
+    "compare_at": 4050
+  }
+]

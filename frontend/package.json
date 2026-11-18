@@ -1,0 +1,38 @@
+{
+  "name": "vastre-storefront",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "playwright test",
+    "test:unit": "node --test unit/*.test.js",
+    "test:browser": "playwright test && playwright test --config playwright.auth.config.js",
+    "test:smoke": "npm run build && playwright test --config playwright.smoke.config.js",
+    "test:quality": "playwright test --config playwright.phase9.config.js",
+    "test:lighthouse": "node scripts/lighthouse.mjs",
+    "test:content": "playwright test --config playwright.content.config.js",
+    "test:images": "node scripts/verify-images.mjs",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,css}\" index.html vite.config.js playwright.phase9.config.js playwright.content.config.js \"phase9/*.js\" \"content/*.js\" \"scripts/*.mjs\" \"unit/*.test.js\" public/theme.js public/manifest.webmanifest"
+  },
+  "dependencies": {
+    "firebase": "12.19.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "@vitejs/plugin-react": "^5.0.4",
+    "lighthouse": "^12.8.2",
+    "prettier": "^3.9.10",
+    "vite": "^7.1.7",
+    "wawoff2": "^2.0.1"
+  },
+  "overrides": {
+    "@grpc/grpc-js": "^1.13.6"
+  }
+}

@@ -1,0 +1,196 @@
+/* Phase 9: shared corrections; existing editorial composition stays intact. */
+.admin-link {
+  min-width: var(--control-height);
+}
+.grid-density .icon-button {
+  min-width: var(--control-height);
+  width: var(--control-height);
+}
+.wordmark {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--control-height);
+}
+.announcement-bar .icon-button {
+  width: var(--control-height);
+  min-width: var(--control-height);
+  height: var(--control-height);
+}
+.product-card .product-name,
+.cart-item-name,
+.drawer-item div > a,
+.footer-brand > a,
+.pdp-enquiry,
+.checkout-help {
+  display: flex;
+  align-items: center;
+  min-height: var(--control-height);
+  min-width: var(--control-height);
+}
+.home-trust > a {
+  min-height: var(--control-height);
+}
+.breadcrumbs a,
+.site-footer nav a {
+  min-width: var(--control-height);
+}
+.collection-nav a {
+  min-width: var(--control-height);
+}
+.pdp-quantity .icon-button,
+.pdp-quantity input {
+  width: var(--control-height);
+  min-width: var(--control-height);
+  min-height: var(--control-height);
+}
+.filter-option {
+  min-height: var(--control-height);
+}
+.admin-order-toggle {
+  min-width: var(--control-height);
+  min-height: var(--control-height);
+}
+.admin-stats small {
+  font-family: var(--sans);
+}
+.toast {
+  grid-template-columns: 22px minmax(0, 1fr) var(--control-height);
+}
+.toast .icon-button {
+  min-width: var(--control-height);
+  width: var(--control-height);
+  height: var(--control-height);
+}
+.route-loading {
+  min-height: 100svh;
+  padding: var(--space-16) var(--gutter);
+}
+[aria-label="Checking access"] {
+  min-height: 100svh;
+}
+.collection-nav a.active {
+  border-color: var(--focus-color);
+}
+.icon-button[aria-pressed="true"] svg {
+  fill: var(--focus-color);
+}
+.chip,
+.button-light {
+  border-color: var(--control-border);
+}
+.text-link,
+.text-button,
+.breadcrumbs a {
+  text-decoration-thickness: 1px;
+}
+.text-link,
+.text-button,
+.breadcrumbs a,
+.admin-link,
+.footer-bottom a,
+.site-footer nav a,
+summary {
+  min-height: var(--control-height);
+  display: inline-flex;
+  align-items: center;
+}
+.icon-button,
+.header-actions .icon-button,
+.menu-trigger,
+.card-media .product-save,
+.chip,
+.quick-add-trigger {
+  min-width: var(--control-height);
+  min-height: var(--control-height);
+}
+.card-media .product-save {
+  width: var(--control-height);
+  height: var(--control-height);
+}
+.card-badges {
+  right: 56px;
+}
+.whatsapp-float {
+  min-height: var(--control-height);
+  display: inline-flex;
+  align-items: center;
+}
+/* Native modal top layer already wins visually; also remove the underlying
+   floating action from the accessibility tree while a modal is open. */
+body:has(dialog[open]) .whatsapp-float {
+  visibility: hidden;
+}
+.whatsapp-float.is-product-page {
+  bottom: calc(96px + env(safe-area-inset-bottom, 0px));
+}
+.profile-identity,
+.account-panel,
+.account-settings-form,
+.admin-content,
+.drawer-item > div,
+.cart-item > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.pdp-info {
+  min-width: 0;
+}
+.drawer {
+  max-height: 100dvh;
+}
+@media (max-width: 480px) {
+  :root {
+    --header-height: 120px;
+    --header-compact-height: 112px;
+  }
+  .site-header {
+    flex-wrap: wrap;
+    align-content: center;
+    gap: var(--space-1) var(--space-2);
+  }
+  .site-header .wordmark {
+    flex: 1;
+  }
+  .header-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .header-actions .icon-button,
+  .menu-trigger {
+    width: var(--control-height);
+    height: var(--control-height);
+    min-width: var(--control-height);
+  }
+  .auth-tabs button {
+    min-height: var(--control-height);
+  }
+  .whatsapp-float {
+    right: var(--space-3);
+  }
+  .pdp-purchase {
+    gap: var(--space-2);
+  }
+}
+@media (min-width: 769px) {
+  .whatsapp-float.is-product-page {
+    bottom: var(--space-6);
+  }
+}
+@media (max-height: 480px) and (orientation: landscape) {
+  .site-header,
+  .site-header.is-scrolled {
+    position: relative;
+  }
+  .mobile-product-bar {
+    padding-block: var(--space-2);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
